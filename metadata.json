@@ -1,0 +1,7 @@
+{
+  "name": "PHC-SHIELD AI",
+  "description": "Primary Health Centre (PHC) operational data entry platform and AI decision-support copilot for healthcare facilities in Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
